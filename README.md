@@ -1,7 +1,9 @@
+[![.NET Build](https://github.com/davidjamesmarley/ElevateProcess/actions/workflows/dotnet-build.yml/badge.svg?branch=main)](https://github.com/davidjamesmarley/ElevateProcess/actions/workflows/dotnet-build.yml)
 ![GitHub issues](https://img.shields.io/github/issues/davidjamesmarley/ElevateProcess?style=flat-square)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/davidjamesmarley/ElevateProcess?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/davidjamesmarley/ElevateProcess?style=flat-square)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/davidjamesmarley/ElevateProcess?style=flat-square)
+
 
 
 # Elevate Process
